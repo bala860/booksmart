@@ -1,0 +1,5 @@
+{
+  "name": "BookSmart",
+  "description": "An AI-powered travel comparison app to help users find the best deals on flights, buses, trains, hotels, and vacation packages by comparing prices across multiple platforms.",
+  "requestFramePermissions": []
+}
